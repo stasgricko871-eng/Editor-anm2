@@ -1,0 +1,8 @@
+{
+  "name": "Isaac ANM2 Editor",
+  "description": "Mobile animation editor for The Binding of Isaac with full anm2 support, timeline, layers, spritesheets, and preview canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
